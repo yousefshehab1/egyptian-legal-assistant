@@ -1,0 +1,9 @@
+langchain-community
+langchain-huggingface
+langchain-groq
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+beautifulsoup4
+gradio
+torch
